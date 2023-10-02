@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.container{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    background-color:#07080c;
+    height:100vh;
+
+}
+
+.heading{
+    color:#ffffff;
+    font-size:25px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.image{
+    height:40px;
+    width:100px;
+
+}
+
+
+.heading2{
+    color:#ffffff;
+    font-size:20px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.para{
+   color:#ffffff;
+    font-size:26px;
+    font-weight:bold;
+    text-align:center;
+}  
+
+
+.A-button{
+    color:#ffffff;
+    background-color:blue;
+    height:50px;
+    width:70px
+}
+
+.B-button{
+    color:#ffffff;
+    background-color:transparent;
+    height:50px;
+    width:70px;
+}
